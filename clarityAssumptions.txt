@@ -1,0 +1,4 @@
+Assumptions Made:
+1. The queue is a departure queue, once an aircraft leaves we can forget about it.
+2. Aircraft Id values should be unique from all other aircraft in the queue.
+3. Improper user inputs should be handled appropriately, display some sort of message/warning
